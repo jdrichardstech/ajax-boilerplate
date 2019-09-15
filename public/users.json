@@ -1,0 +1,5 @@
+[
+  { "car": "Honda", "color": "blue", "year": "2019" },
+  { "car": "Chevrolet", "color": "green", "year": "2011" },
+  { "car": "Prius", "color": "red", "year": "2020" }
+]
